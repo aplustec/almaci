@@ -1,0 +1,19 @@
+  <ul class="sf-menu">
+         <li><a href="<?php echo $this->baseUrl('/admin'); ?>">PRINCIPAL</a></li>
+
+        <li>
+            <a href="#">PRODUTOS</a>
+            <ul>
+               <li><a href="<?php echo $this->baseUrl('/admin'); ?>">Ver Modelos</a></li>
+               <li><a href="<?php echo $this->baseUrl('/admin/model/new'); ?>">Novo Modelo</a></li>
+            </ul>
+         </li>
+       
+         <li>
+            <a href="#">CONFIGURAÇÃO</a>
+            <ul>
+               <li><a href="<?php echo $this->baseUrl('/admin/settings'); ?>">Alterar senha</a></li>
+            </ul>
+         </li>
+         <li><a href="<?php echo $this->baseUrl('/logout'); ?>">SAIR</a></li>
+  </ul>

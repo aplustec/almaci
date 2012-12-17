@@ -1,0 +1,131 @@
+.contato {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #333;
+	line-height: 20px;
+}
+.ddd {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #027EC8;
+}
+.fone {
+	font-family: "Century Gothic";
+	font-size: 33px;
+	font-weight: bold;
+	color: #027EC8;
+}
+.label {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333;
+}
+.input {
+	height: 25px;
+	width: 325px;
+	padding-left: 5px;
+	border: 1px solid #CCC;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 25px;
+}
+.area {
+	height: 85px;
+	width: 325px;
+	padding-left: 5px;
+	border: 1px solid #CCC;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	padding-top: 5px;
+}
+.bt {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFF;
+	background-color: #076098;
+	height: 26px;
+	width: 80px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	cursor: pointer;
+}
+.tabela5
+{
+	WIDTH: 760px;
+	LIST-STYLE-TYPE: none;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	height: 430px;
+	padding-top: 10px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+.tabela5 li
+{
+	DISPLAY: inline;
+	WIDTH: 120px;
+	height: 179px;
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-left: 10px;
+	background-color: #EEE;
+	border: 1px solid #DADEDB;
+	padding: 5px;
+	float: left;
+	margin-bottom: 5px;
+} 
+.tabela5 li:hover
+{
+	DISPLAY: inline;
+	FLOAT: left;
+	WIDTH: 120px;
+	height: 179px;
+	padding: 5px;
+	background-color: #FFF;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+} 
+.link {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	color: #FFF;
+	text-decoration: none;
+}
+.link:hover {
+	text-decoration: none;
+}
+.copy {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #333;
+}
+
+
+.model {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	color: #FFF;
+	text-decoration: none;
+}
+
+.sub {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFF;
+	text-decoration: none;
+}
+.sub:hover {
+	text-decoration: underline;
+}
